@@ -1,0 +1,33 @@
+
+
+.tt{
+    background-color: black;    
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+.container-fluid{
+    background-color: rgba(225, 0, 0, 0,);
+    
+}
+
+.row{
+    background-color: rgba(225, 0, 0, 0,);
+    
+}
+.col{
+    background-color: rgba(225, 0, 0, 0,);
+    
+}
